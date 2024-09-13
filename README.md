@@ -5,7 +5,7 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Jupyter-%23e58f1a.svg?style=plastic&logo=Jupyter&logoColor=white"/>
 
-<img src="./assets/banner-analisis-de-datos.png"/>
+<img src="./assets/banner.png"/>
 
 Este repositorio contiene un análisis de datos inicial del dataset **global_air_pollution**, el cual mide los niveles de calidad del aire en distintas ciudades del mundo en función de varios contaminantes. El análisis está dividido en tres etapas, cada una implementada en un Jupyter Notebook: **Análisis Exploratorio**, **Limpieza de Datos**, y **Transformación de Datos**.
 
