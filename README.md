@@ -7,7 +7,9 @@
 
 <img src="./assets/banner.png"/>
 
-Este repositorio contiene un análisis de datos inicial del dataset **global_air_pollution**, el cual mide los niveles de calidad del aire en distintas ciudades del mundo en función de varios contaminantes. El análisis está dividido en tres etapas, cada una implementada en un Jupyter Notebook: **Análisis Exploratorio**, **Limpieza de Datos**, y **Transformación de Datos**.
+Este repositorio contiene un análisis de datos inicial del dataset  [Global Air Pollution][kaggle] de Kaggle, el cual mide los niveles de calidad del aire en distintas ciudades del mundo en función de varios contaminantes. El análisis está dividido en tres etapas, cada una implementada en un Jupyter Notebook: **Análisis Exploratorio**, **Limpieza de Datos**, y **Transformación de Datos**.
+
+[kaggle]: https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset
 
 ## Descripción del Dataset
 
