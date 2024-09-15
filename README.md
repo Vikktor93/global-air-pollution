@@ -63,16 +63,30 @@ En este notebook se aplican técnicas de transformación de datos:
 - **Normalización**: Las variables numéricas se escalan para estar en el rango de 0 a 1 utilizando **Min-Max Scaling**.
 - **Estandarización**: Las variables numéricas se transforman para tener una distribución con media 0 y desviación estándar 1, utilizando **StandardScaler**.
 
-Además, este notebook incluye visualizaciones que comparan las distribuciones antes y después de la normalización y estandarización mediante histogramas y boxplots.
+Además, este notebook incluye visualizaciones que comparan las distribuciones antes y después de la normalización y estandarización mediante histogramas y scatter plots.
 
 ## Visualizaciones Clave
 
 A lo largo del análisis, se generaron diversas visualizaciones para facilitar la comprensión de los datos:
 
 - **Histogramas**: Para observar la distribución de las variables numéricas antes y después de las transformaciones.
+- **Scatter Plots**: Para analizar la relación entre diferentes contaminantes.
 
 ## Requisitos
 
 Para ejecutar los notebooks y replicar el análisis, necesitas instalar las siguientes dependencias:
 
 `pip install numpy pandas matplotlib seaborn scikit-learn`
+
+
+## Cómo Usar Este Repositorio
+1. Clona este repositorio en tu desipositivo local:
+'git clone https://github.com/Vikktor93/global-air-pollution.git`
+2. Abre los notebooks en Jupyter Notebook, JupyterLab o tu IDE favorito.
+3. Sigue los notebooks en el orden sugerido para entender todo el flujo del análisis.
+
+## Licencia
+Este proyecto está licenciado bajo la [MIT License][license]. Consulte [License][license] para obtener más información.
+
+[license]: https://github.com/Vikktor93/global-air-pollution/blob/main/LICENSE
+
