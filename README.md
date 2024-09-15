@@ -81,7 +81,7 @@ Para ejecutar los notebooks y replicar el análisis, necesitas instalar las sigu
 
 ## Cómo Usar Este Repositorio
 1. Clona este repositorio en tu desipositivo local:
-'git clone https://github.com/Vikktor93/global-air-pollution.git`
+`git clone https://github.com/Vikktor93/global-air-pollution.git`
 2. Abre los notebooks en Jupyter Notebook, JupyterLab o tu IDE favorito.
 3. Sigue los notebooks en el orden sugerido para entender todo el flujo del análisis.
 
